@@ -49,7 +49,6 @@ namespace DoAnCuoiKi
             this.radioButtonNu = new System.Windows.Forms.RadioButton();
             this.pictureBoxImage = new System.Windows.Forms.PictureBox();
             this.buttonEdit = new System.Windows.Forms.Button();
-            this.buttonCancel = new System.Windows.Forms.Button();
             this.buttonUploadImg = new System.Windows.Forms.Button();
             this.labelDiaChi = new System.Windows.Forms.Label();
             this.textBoxDiaChi = new System.Windows.Forms.TextBox();
@@ -162,7 +161,6 @@ namespace DoAnCuoiKi
             // 
             this.textBoxSDT.Location = new System.Drawing.Point(135, 150);
             this.textBoxSDT.Name = "textBoxSDT";
-            this.textBoxSDT.ReadOnly = true;
             this.textBoxSDT.Size = new System.Drawing.Size(239, 22);
             this.textBoxSDT.TabIndex = 11;
             // 
@@ -233,22 +231,13 @@ namespace DoAnCuoiKi
             // 
             // buttonEdit
             // 
-            this.buttonEdit.Location = new System.Drawing.Point(501, 374);
+            this.buttonEdit.Location = new System.Drawing.Point(393, 371);
             this.buttonEdit.Name = "buttonEdit";
             this.buttonEdit.Size = new System.Drawing.Size(113, 43);
             this.buttonEdit.TabIndex = 20;
             this.buttonEdit.Text = "Sửa";
             this.buttonEdit.UseVisualStyleBackColor = true;
             this.buttonEdit.Click += new System.EventHandler(this.buttonEdit_Click);
-            // 
-            // buttonCancel
-            // 
-            this.buttonCancel.Location = new System.Drawing.Point(127, 374);
-            this.buttonCancel.Name = "buttonCancel";
-            this.buttonCancel.Size = new System.Drawing.Size(113, 43);
-            this.buttonCancel.TabIndex = 21;
-            this.buttonCancel.Text = "Thoát";
-            this.buttonCancel.UseVisualStyleBackColor = true;
             // 
             // buttonUploadImg
             // 
@@ -259,6 +248,7 @@ namespace DoAnCuoiKi
             this.buttonUploadImg.TabIndex = 22;
             this.buttonUploadImg.Text = "Tải hình";
             this.buttonUploadImg.UseVisualStyleBackColor = true;
+            this.buttonUploadImg.Click += new System.EventHandler(this.buttonUploadImg_Click);
             // 
             // labelDiaChi
             // 
@@ -364,7 +354,6 @@ namespace DoAnCuoiKi
             this.Controls.Add(this.textBoxDiaChi);
             this.Controls.Add(this.labelDiaChi);
             this.Controls.Add(this.buttonUploadImg);
-            this.Controls.Add(this.buttonCancel);
             this.Controls.Add(this.buttonEdit);
             this.Controls.Add(this.pictureBoxImage);
             this.Controls.Add(this.radioButtonNu);
@@ -415,7 +404,6 @@ namespace DoAnCuoiKi
         private System.Windows.Forms.RadioButton radioButtonNu;
         private System.Windows.Forms.PictureBox pictureBoxImage;
         private System.Windows.Forms.Button buttonEdit;
-        private System.Windows.Forms.Button buttonCancel;
         private System.Windows.Forms.Button buttonUploadImg;
         private System.Windows.Forms.Label labelDiaChi;
         private System.Windows.Forms.TextBox textBoxDiaChi;

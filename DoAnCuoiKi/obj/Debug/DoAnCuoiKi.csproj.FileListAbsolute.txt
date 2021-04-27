@@ -1,0 +1,84 @@
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe.config
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.pdb
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Properties.Resources.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.exe
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.pdb
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Loading.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyForm.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ThongTinNV.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DoiMK.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachNV.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.BoPhan.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyTk.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TaoTK.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.SuaTk.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.GiuXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXeGiu.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXeChoThue.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXeRua.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXeSua.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyVe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyBaiDoXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TaoThemVe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ThongTinBaiDoXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyCongViec.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ThemHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TkXeDaVaoBen.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TkXeHienTai.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKNhanVien.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKDoanhThu.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.tkDoanhThuDinhKy.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.tkDoanhThuTheoNgay.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.HopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.HopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKDoanhThu.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.tkDoanhThuDinhKy.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.tkDoanhThuTheoNgay.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKNhanVien.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TKXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TkXeDaVaoBen.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TkXeHienTai.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyCongViec.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyBaiDoXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyVe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TaoThemVe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ThongTinBaiDoXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXeGiu.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.GiuXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.BoPhan.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachNV.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DoiMK.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Loading.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Properties.Resources.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyForm.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.QuanLyTk.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.SuaTk.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TaoTK.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ThongTinNV.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.exe
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.pdb
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe.config
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.pdb
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.DanhSachXeCoHopDong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.NoiDungHD.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ThongTinXe.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.ChamCong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.TinhLuong.resources
+C:\Users\ACER\Downloads\Lập trình Windown\Đồ án\DoAnCuoiKi ver2\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.HoaDon.resources

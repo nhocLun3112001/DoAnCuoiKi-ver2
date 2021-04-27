@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,25 +18,40 @@ namespace DoAnCuoiKi
             InitializeComponent();
         }
 
+        CauLenhNV clNV = new CauLenhNV();
         private void buttonEdit_Click(object sender, EventArgs e)
         {
-            if (this.buttonEdit.Text == "Sửa")
-            {
-                this.textBoxMaNV.Enabled = true;
-                this.textBoxMaBP.Enabled = true;
-                this.textBoxCMND.Enabled = true;
-                this.textBoxSDT.Enabled = true;
-                this.textBoxNangLuc.Enabled = true;
-                this.textBoxDiaChi.Enabled = true;
-                this.textBoxTenNV.Enabled = true;
-                this.buttonUploadImg.Enabled = true;
-                this.dateTimePickerBirth.Enabled = true;
-                this.buttonEdit.Text = "Lưu";
-            }
-            else
-            {
+           
 
+        }
+
+        private void buttonUploadImg_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog opf = new OpenFileDialog();
+            opf.Filter = "Select Image (*.jpg; *.png; *.gif)| *.jpg; *.png; *.gif";
+            if (opf.ShowDialog() == DialogResult.OK)
+            {
+                this.pictureBoxImage.Image = Image.FromFile(opf.FileName);
             }
         }
+
+        public bool verif()
+        {
+            if ((textBoxMaNV.Text.Trim() == "")
+                    || (textBoxCMND.Text.Trim() == "")
+                    || (textBoxDiaChi.Text.Trim() == "")
+                    || (textBoxMaBP.Text.Trim() == "")
+                    || (pictureBoxImage.Image == null)
+                    || (textBoxNangLuc.Text.Trim() == "")
+                    || (textBoxSDT.Text.Trim() == "")
+                    || (textBoxNangLuc.Text.Trim() == "")
+                    || (textBoxTenNV.Text.Trim() == "")
+                    )
+            {
+                return false;
+            }
+            else return true;
+        }
+
     }
 }

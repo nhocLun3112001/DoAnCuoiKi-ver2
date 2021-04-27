@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoHanh.cs" />
+    <Compile Include="CauLenhNV.cs" />
+    <Compile Include="FileCS\CongViec.cs" />
+    <Compile Include="FileCS\MY_DB.cs" />
+    <Compile Include="FileCS\LoaiXe.cs" />
+    <Compile Include="NhanVien.cs" />
     <Compile Include="User Control\QLNV\ChamCong.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -252,6 +258,8 @@
     <Compile Include="User Control\HeThong\ThongTinNV.Designer.cs">
       <DependentUpon>ThongTinNV.cs</DependentUpon>
     </Compile>
+    <Compile Include="FileCS\Xe.cs" />
+    <Compile Include="FileCS\VeXe.cs" />
     <EmbeddedResource Include="User Control\QLNV\ChamCong.resx">
       <DependentUpon>ChamCong.cs</DependentUpon>
     </EmbeddedResource>

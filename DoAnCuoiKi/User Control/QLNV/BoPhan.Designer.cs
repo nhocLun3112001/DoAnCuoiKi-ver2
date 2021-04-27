@@ -37,6 +37,9 @@ namespace DoAnCuoiKi
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.dataGridViewNV = new System.Windows.Forms.DataGridView();
+            this.MaPB = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenPB = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SoNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.btnXoa = new System.Windows.Forms.Button();
@@ -44,9 +47,6 @@ namespace DoAnCuoiKi
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.MaPB = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenPB = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.SoNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewNV)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -137,6 +137,35 @@ namespace DoAnCuoiKi
             this.dataGridViewNV.Size = new System.Drawing.Size(972, 284);
             this.dataGridViewNV.TabIndex = 0;
             // 
+            // MaPB
+            // 
+            this.MaPB.DataPropertyName = "MaPB";
+            this.MaPB.FillWeight = 150F;
+            this.MaPB.HeaderText = "Mã Bộ Phận";
+            this.MaPB.MinimumWidth = 6;
+            this.MaPB.Name = "MaPB";
+            this.MaPB.ReadOnly = true;
+            this.MaPB.Width = 125;
+            // 
+            // TenPB
+            // 
+            this.TenPB.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.TenPB.DataPropertyName = "TenPB";
+            this.TenPB.HeaderText = "Tên Bộ Phận";
+            this.TenPB.MinimumWidth = 6;
+            this.TenPB.Name = "TenPB";
+            this.TenPB.ReadOnly = true;
+            // 
+            // SoNV
+            // 
+            this.SoNV.DataPropertyName = "SoNV";
+            this.SoNV.FillWeight = 150F;
+            this.SoNV.HeaderText = "Số Nhân Vên";
+            this.SoNV.MinimumWidth = 6;
+            this.SoNV.Name = "SoNV";
+            this.SoNV.ReadOnly = true;
+            this.SoNV.Width = 125;
+            // 
             // panel2
             // 
             this.panel2.Location = new System.Drawing.Point(0, 237);
@@ -214,35 +243,6 @@ namespace DoAnCuoiKi
             this.panel1.Size = new System.Drawing.Size(983, 229);
             this.panel1.TabIndex = 5;
             // 
-            // MaPB
-            // 
-            this.MaPB.DataPropertyName = "MaPB";
-            this.MaPB.FillWeight = 150F;
-            this.MaPB.HeaderText = "Mã Bộ Phận";
-            this.MaPB.MinimumWidth = 6;
-            this.MaPB.Name = "MaPB";
-            this.MaPB.ReadOnly = true;
-            this.MaPB.Width = 125;
-            // 
-            // TenPB
-            // 
-            this.TenPB.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.TenPB.DataPropertyName = "TenPB";
-            this.TenPB.HeaderText = "Tên Bộ Phận";
-            this.TenPB.MinimumWidth = 6;
-            this.TenPB.Name = "TenPB";
-            this.TenPB.ReadOnly = true;
-            // 
-            // SoNV
-            // 
-            this.SoNV.DataPropertyName = "SoNV";
-            this.SoNV.FillWeight = 150F;
-            this.SoNV.HeaderText = "Số Nhân Vên";
-            this.SoNV.MinimumWidth = 6;
-            this.SoNV.Name = "SoNV";
-            this.SoNV.ReadOnly = true;
-            this.SoNV.Width = 125;
-            // 
             // BoPhan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -252,7 +252,7 @@ namespace DoAnCuoiKi
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "BoPhan";
-            this.Size = new System.Drawing.Size(1004, 542);
+            this.Size = new System.Drawing.Size(994, 542);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewNV)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
